@@ -1,0 +1,41 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+header{
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 12px;
+  position: fixed;
+  color: #eee;
+  background: rgba(0.1,0.1,0.1,0.9);
+};
+h1{
+  margin: 12px 18px;
+}
+
+section {
+  width: 100%;
+  overflow: hidden;
+}
+section:first-of-type{
+  margin-top: 90px;
+}
+
+.emoji-container{
+  border: 2px solid blue;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.emoji{
+  width: 160px;
+  height: 160px;
+  margin: 12px;
+  border: 2px solid palevioletred;
+  overflow: hidden;
+}

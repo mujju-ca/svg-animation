@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="lightning" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <g id="lightning-yellow">
+    <polyline points="98.24 40.16 101.81 134.28 39.42 151.12" fill="#efd418" stroke="#efd418" stroke-miterlimit="10"/>
+    <polyline points="69.18 226.38 65.86 132.48 128.03 115.54" fill="#efd418" stroke="#efd418" stroke-miterlimit="10"/>
+  </g>
+  <g id="lightning-orange">
+    <polyline points="188.9 33.35 192.18 119.66 134.96 135.1" fill="#f2ab0c" stroke="#f2ab0c" stroke-miterlimit="10"/>
+    <polyline points="162.25 204.12 159.21 118.01 216.22 102.48" fill="#f2ab0c" stroke="#f2ab0c" stroke-miterlimit="10"/>
+  </g>
+</svg>
